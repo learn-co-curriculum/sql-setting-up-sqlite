@@ -123,5 +123,5 @@ add the semi-colon.
 ## Resources
 
 - [SQLite Documentation](http://www.sqlite.org/docs.html)
-- [Homebrew](http://mxcl.github.com/homebrew/)
+- [Homebrew](https://brew.sh/)
 - [ZetCode sqlite3](http://zetcode.com/db/sqlite/)
